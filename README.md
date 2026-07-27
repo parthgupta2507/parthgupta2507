@@ -14,3 +14,8 @@
 [![](https://komarev.com/ghpvc/?username=parthgupta2507&icon=4&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
